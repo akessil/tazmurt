@@ -1,0 +1,19 @@
+img{
+	width:20px;
+	height:20px;
+}
+
+table{
+	color:red;
+	border-collapse: collapse;
+}
+
+td,th{
+	border:1px solid black;
+	border-collapse: collapse;
+	padding: 2px;
+}
+
+h1{
+	color: blue;
+}
